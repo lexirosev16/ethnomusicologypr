@@ -86,10 +86,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "ecological"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Cuando baila la negrita"
         },
         {
@@ -195,7 +191,7 @@
       ]
     },
     "created_at": "2026-04-24T13:18:54.499Z",
-    "updated_at": "2026-04-24T14:06:16.992Z",
+    "updated_at": "2026-04-24T14:10:19.270Z",
     "generate_pages_site": true
   },
   "annotations": {},
