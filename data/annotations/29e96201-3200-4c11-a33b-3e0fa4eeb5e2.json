@@ -232,6 +232,63 @@
         }
       ],
       "uuid": "8666243d-9d1e-4d4f-b580-6b5f487d4735"
+    },
+    {
+      "start_time": 1992,
+      "end_time": 2040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La Borucana\" (crayfish) - featured singer is Tata Cepeda"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A Pescar borucana?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si a pescar borucana?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guemba, guemba"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "Theme",
+          "tag": "nature"
+        }
+      ],
+      "uuid": "609b15f7-9b1c-4df7-b877-0bb028bea6d7"
     }
   ],
   "set": "Default",
