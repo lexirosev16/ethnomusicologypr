@@ -183,14 +183,14 @@
       "uuid": "a1d3d293-4b6c-415d-a16b-20ea0750c33e"
     },
     {
-      "start_time": 0,
-      "end_time": 0,
+      "start_time": 1740,
+      "end_time": 1800,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Petronila Guilbe\" - featured bombera is Brenda Cepeda",
+              "text": "\"Petronila Guilbe\" - featured bombera is Brenda Cepeda than Rafael \"Chino\" Cepeda",
               "bold": true
             }
           ]
