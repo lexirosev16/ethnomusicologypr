@@ -55,7 +55,51 @@
               "bold": true
             },
             {
-              "text": ", and peformed by Yaya"
+              "text": ", and performed by Yaya Agosto Otero"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cunya de la peronia, cunya "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de la peronia cunya, de la peronia cunya"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nCunya de la peronia, cunya "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
             }
           ]
         },
