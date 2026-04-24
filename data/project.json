@@ -90,10 +90,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "cultural memory"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "cultural pride"
         },
         {
@@ -159,7 +155,7 @@
       ]
     },
     "created_at": "2026-04-24T13:18:54.499Z",
-    "updated_at": "2026-04-24T14:11:12.336Z",
+    "updated_at": "2026-04-24T14:11:16.097Z",
     "generate_pages_site": true
   },
   "annotations": {},
