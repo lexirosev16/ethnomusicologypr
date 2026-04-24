@@ -119,6 +119,64 @@
         }
       ],
       "uuid": "58f999fc-ccd8-4235-a59b-79e96a17a1af"
+    },
+    {
+      "start_time": 1694,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Plere Maria\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Plere Maria, Plera "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Plera Maria, Plere"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Plera Maria, Plere"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Catalina la reina, guembe "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "Theme",
+          "tag": "gender"
+        }
+      ],
+      "uuid": "a1d3d293-4b6c-415d-a16b-20ea0750c33e"
     }
   ],
   "set": "Default",
