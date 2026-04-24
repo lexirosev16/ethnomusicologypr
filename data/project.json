@@ -114,10 +114,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "oppression"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "suffering"
         },
         {
@@ -183,7 +179,7 @@
       ]
     },
     "created_at": "2026-04-24T13:18:54.499Z",
-    "updated_at": "2026-04-24T14:28:49.519Z",
+    "updated_at": "2026-04-24T14:28:51.983Z",
     "generate_pages_site": true
   },
   "annotations": {},
