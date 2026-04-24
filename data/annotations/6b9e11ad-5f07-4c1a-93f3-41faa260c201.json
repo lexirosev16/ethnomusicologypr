@@ -1,5 +1,162 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This film is a recording of a live performance from 1983 at the Centro de Bellas Artes in San Juan, Puerto Rico. It explores Puerto Rico’s tri‑ethnic heritage and features multiple Indigenous musical genres, including bomba, plena, and danza. The performance includes renowned artists such as Don Rafael Cepeda and Petra Cepeda."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "935b3ff5-351b-41dc-a72b-1c50f233f0b0"
+    },
+    {
+      "start_time": 82,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were unaware of Europe’s existence. They did not know the white man, with his thick mustache, long beard, and hairy chest. When they saw them, they wondered who these strange beings with different customs were. The language they spoke was very different from the Spanish we speak today, although some of their words are still used in our daily conversations."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "021c45c5-25b7-4edf-895b-5d820442ca2c"
+    },
+    {
+      "start_time": 129,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Narrator: The Taínos took advantage of any occasion to celebrate an important event. For example, that is what the areitos were for. During these gatherings, they sang and danced. At that time, more than 70,000 Taínos were living happily on our island. They grew their own food, had their own language, symbols, and way of life. Although the Spaniards may have mistaken their kindness for simplicity, the Taíno people were an advanced civilization, with a free social structure in which they cared for one another without displacement. But the Spanish drive for conquest—fueled by the search for new lands and the desire for gold—forced them into labor. Faced with this situation, they rebelled; they fought. They defended, with their lives, the land that saw them born. This land called Borikén."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "colonialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "cultural memory"
+        }
+      ],
+      "uuid": "a11c4618-b48d-43cb-9d3f-21f7d60b3bb6"
+    },
+    {
+      "start_time": 240,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Restless. Daring. That is what those white men who colonized our island were like. They claim to have “discovered” Puerto Rico in 1493… The truth is that Puerto Rico was already inhabited. But it was not until fifteen years later that formal colonization by Spain began. In 1508, a Spanish hidalgo, Juan Ponce de León, came to explore the island and learn about its conditions. He heard news of gold in Borikén. He saw an opportunity to enrich himself, to cover himself in glory by adding territory to the Spanish Empire, and to fulfill God’s will by converting souls to Christianity… reasons that fueled his interest in colonizing the island.\nThroughout our history, the Black population carried the weight of labor.  They cleared the fields, plowed the land, and planted the coastal valleys… with the seed of sugar. Knowing this arduous and hostile process of the sugar plantations makes it easier to understand the importance of religion, cultural life, and the customs of Black Puerto Ricans. If we do not understand this essential fact, we will never grasp their other contributions—such as their imprint on our ethnic formation and their cultural integration into our society. For all these reasons, we must emphasize that sugar and Black slavery were synonymous throughout our history.\n\nThere was a shift during this period. Black labor became concentrated in coffee cultivation, which was not very successful. Then, Queen Sugar displaced the rich bean, and once again Black hands became responsible for Puerto Rico’s economic development.\nScene 3: The African\nYears later, with the arrival of the African, exploitation became a reality—not of mines, but of fertile land. Once settled on the island, aspects of their culture were integrated, including music, language, and religion, which arrived with European monks, filling the island with Spanish civilization.\nInterlude: Slavery. For centuries, the inhabitants of Africa lived on the island in a state of inferiority. Subjugated by their masters, enslaved in degrading tasks, their dignity trampled. Nevertheless, Black people participated in the fertile life of Puerto Rico and contributed beautiful elements to the culture of the country. Although all of this is true, we often forget the most important contribution of Black people: their labor. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "colonialism"
+        }
+      ],
+      "uuid": "1e1ab4e6-312d-4c2e-9a3d-de6ff0ed523e"
+    },
+    {
+      "start_time": 420,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Narrator:\nThroughout our history, Black people carried the weight of labor. They cleared the fields, plowed the land, and planted the coastal valleys with the seed of sugar. Understanding this arduous and hostile process of the sugar plantations makes it easier for us to grasp the importance of religion, cultural life, and the customs of Black Puerto Ricans. If we do not understand this essential fact, we will never comprehend their other contributions—such as their imprint on our ethnic formation and their cultural integration into our society. For all these reasons, we must emphasize that sugar and Black slavery were synonymous throughout our history.\nOver time, there was a shift. Black labor became concentrated in coffee cultivation, which was not very successful. Then Queen Sugar displaced the rich bean, and once again Black hands became responsible for Puerto Rico’s economic development. The contribution of Black people to Puerto Rican society was especially significant in the second half of the 19th century. In 1873, when the number of enslaved people had already been reduced to a minority, the Spanish courts proclaimed: Abolition of slavery!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Theme",
+          "tag": "Blackness"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "labor"
+        },
+        {
+          "category": "Theme",
+          "tag": "slavery"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "colonialism"
+        }
+      ],
+      "uuid": "4fcdc9d5-3c97-4a7f-980b-fa7aefeac6d6"
+    },
+    {
+      "start_time": 894,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus\nColony, colony, take the sugarcane to the mill.\nColony, colony, take the sugarcane to the mill.\nVerses\nDo not let the poor die of hunger;\nthey receive their wages\non the plantation where they are dying.\nIf we have the cane, let us earn our sustenance;\nI beg you, give the workers their place.\nIf on Sunday they carry cane to the mill,\nall the poor go without remedy.\nIf we do not have the cane, there is no sustenance.\nI beg you, give work to those who prepare their own livelihood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "yubá"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Don Rafael Cepeda Atiles"
+        },
+        {
+          "category": "Theme",
+          "tag": "slavery"
+        },
+        {
+          "category": "Theme",
+          "tag": "suffering"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "colonialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "labor"
+        },
+        {
+          "category": "Genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "9d09d1e2-9ef0-42c9-9a63-8641154b013c"
+    }
+  ],
   "event_id": "538a4006-8ba6-402c-9393-0e12e90b5ad8",
   "set": "Zafra_P1_EN",
   "source_id": "c93efe17-2b70-4fec-86e4-86b5a5c5ccb5"
