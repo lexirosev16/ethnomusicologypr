@@ -181,6 +181,57 @@
         }
       ],
       "uuid": "a1d3d293-4b6c-415d-a16b-20ea0750c33e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Petronila Guilbe\" - featured bombera is Brenda Cepeda",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Petronila Guilbe, yo no declare "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Theme",
+          "tag": "gender"
+        },
+        {
+          "category": "Genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "8666243d-9d1e-4d4f-b580-6b5f487d4735"
     }
   ],
   "set": "Default",
