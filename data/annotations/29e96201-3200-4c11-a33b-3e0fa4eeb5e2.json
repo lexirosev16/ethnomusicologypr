@@ -233,6 +233,10 @@
         {
           "category": "Genre",
           "tag": "bomba"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Don Rafael Cepeda Atiles"
         }
       ],
       "uuid": "8666243d-9d1e-4d4f-b580-6b5f487d4735"
