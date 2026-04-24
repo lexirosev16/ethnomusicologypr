@@ -1,1 +1,918 @@
-{"annotations":[],"set":"Default","event_id":"a39929bb-33db-4625-a77f-4547e1fec853","source_id":"69fe9f4e-3436-447f-b327-3594574c22a0"}
+{
+  "annotations": [
+    {
+      "start_time": 60,
+      "end_time": 300,
+      "annotation": [
+        {
+          "text": "Consejos a Nuevos Generaciones",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "“¿Qué consejo le daría para que sigan la bomba que les voy a dar? Que el congreso ya acabándose… no quiero que se me cuestione la bomba verde."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Quisiéramos que tengamos mover mi cuarto, Amanda, por esas cosas… cuarto cuando se ha montado una fuerte. Por eso un mismo acto, y fue la bomba para tomar agua. Todo el amor ahora."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Te mueres de mucho y ahora comiendo la juventud. Y ahora mire, que acá su bombita y empiezan a tocar soporte para tu bien."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "WOMAN SPEAKER: Más grande no deben caer lo nuestro, que sigamos tocando. Uno debe morir, que la vida no…"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "MALE SPEAKER: Tú tocas, tú bailas y nos la pasamos más bien. No podemos apelar por eso."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "WOMAN: La gente vuelve a sus raíces, que vuelven otra vez a un punto. Porque han de coger de toda la historia y todas las tradiciones. Que nos apoyen y que nos respalden, porque esto es por el bien de todos ustedes. Para nosotros es para todos: la juventud y con niños, que aprendan un poquito más de lo que es la cultura puertorriqueña."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Los padres ya tenemos que hacer algo con maestros y enseñarles nuestros valores, ¿verdad? Nuestra riqueza tradicional que tenemos, nuestro folklore. Tenemos no solo nuestros hijos, para que ellos sigan, porque es todo el futuro. Si se acaban, ¿cada paso desaparece?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "MALE SPEAKER: No se puede perder. Para poner adelante dónde eres… y asesores para que pueda aprender el bien. Diga esto: este agua de la plena y la bomba, lo de nosotros es de nosotros. Es que debemos cultivarla en todos sus niveles y en todas sus dimensiones. Si te gusta en fusión con el jazz, si te gusta en fusión con el reggaetón, si te gusta en su forma folclórica, es nuestra responsabilidad."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Pero ya la bomba es un elemento cultural que nos identifica como frente a la bomba, el astro puertorriqueño. Hay que mantenerlo en su esencia, tocándolo como es, universal, y haciendo maromas con ello que tiene su esencia. Yo creo que deben coexistir ambas formas de tocar la rumba: la forma tradicional y la forma contemporánea. Pero sin la forma tradicional, olvídate de la bomba y la plena."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Y digo aquí: este avance… bueno, no podemos dormirnos. Eso es muy nuestro, es una escultura que dolería mucho que desapareciera. Es importante sentir orgullo de donde uno ha nacido, donde uno tiene sus raíces."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Nuestras raíces no se pueden olvidar, porque si no, ¿vamos a llevar qué? No, todo se queda en nada. Lo más bonito que nosotros tenemos son nuestras raíces: las bombas, el clavo, la plena. Lo que nosotros llevamos en la sangre es lo que tenemos que seguir aquí, a nivel como este, que la tradición siga."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Su lenguaje… yo le enseño a bailar para que siga la tradición, no se caiga la cantera. Edición del barrio de San Antón."
+        }
+      ],
+      "tags": [],
+      "uuid": "6f855bda-0141-4980-a26e-abe2533d1f9a"
+    },
+    {
+      "start_time": 310,
+      "end_time": 333,
+      "annotation": [
+        {
+          "text": "JERRY FERRAO:",
+          "bold": true
+        },
+        {
+          "text": " De aquellos que ocultan la historia, desprecian y dan la espalda a las nuevas generaciones, sepultan su propio eco en la historia. Pues serán las nuevas generaciones los mensajeros de la verdad y te darán el lugar que te ganaste. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry Ferrao"
+        }
+      ],
+      "uuid": "4130c077-2b5a-4f17-ac0f-1f547ff74ecc"
+    },
+    {
+      "start_time": 344,
+      "end_time": 703,
+      "annotation": [
+        {
+          "text": "“Boricuas de la verdad” ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy de la verdura hasta el fondo,\nde nos quedan muchas veces traiga ondo. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Después que algún retazo de la ira y\nde los golpes, tazón de la vida. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy el huracán: se sentirá\nfuerte, ya los que arrastra todo sostenerte, si usted lo llama, esta tierra tan\nquerida, que por ella me muevo hasta la vida."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy el indio que tira pa’a el\nmonte para mirar mejor el horizonte,"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tainos que les verán sus heridas, pero\nno más, no verán de rodilla(s)."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los boricuas de\nla verdad? Ey allá, ey allá, ¿Dónde están los boricuas de la verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso:"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Por aquí, o por allá los (ininteligible)……"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los boricuas en\nverdad? Ey allá, ey allá, ¿Dónde están los boricuas en verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Y hay tiene esa habilidad robándole a\nlos demás."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los boricuas en\nverdad? Ey allá, ey allá, ¿Dónde están los boricuas en verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "La verdad cuando la mentira sabe a\ncansar "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los boricuas en\nverdad? Ey allá, ey allá, ¿Dónde están los boricuas en verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "La verdad quien busca qué te puede\nsacar."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Y nosotros una isla del mar."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los boricuas en\nverdad? Ey allá, ey allá, ¿Dónde están los boricuas en verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hay quien lucha por vivir más, y hay\nquien mata por la vanidad."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los boricuas en\nverdad? Ey allá, ey allá, ¿Dónde están los boricuas en verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso: Yo soy de la verdura hasta el fondo, de nos\nquedan muchas fechas, nuestra canción. Después que algún retazo de la ira y de\nlos golpes, tazón de la vida. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy el huracán: se sentirá\nfuerte, ya los que arrastra todo sostener, si usted lo llama, esta tierra tan\nquerida, que por ella me muevo hasta la vida. Yo soy el indio que tira para el\nmonte para mirar mejor el horizonte, Tainos que les verán sus heridas, pero no\nmás, no verán de rodillas."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los boricuas en\nverdad? Ey allá, ey allá, ¿Dónde están los boricuas en verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hay quien ama con honestidad "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Y hay quien vive busca como sacar"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hay quien desprecia una amistad y hay\nquien vive en la soledad. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los boricuas en\nverdad? Ey allá, ey allá, ¿Dónde están los boricuas en verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso: Hay quien tiene y no quiere ayudar, y hay quien\nno puede y le gusta dar."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hay quien se muere en desperdiciar."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los\nboricuas en verdad? Ey allá, ey allá, ¿Dónde están los boricuas en verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hay que tiene no quiere ayudar y hay\nquien no puede que le gusta la que haya más comodidad que se muera en\ndesperdiciar"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "[Instrumentos]"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Pero Don Quijote no sabe como a escuchar\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los boricuas en\nverdad? Ey allá, ey allá, ¿Dónde están los boricuas en verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Por la vida, por la humanidad no\ndestruye el campo ni el mar. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro: Ey allá, ey allá, ¿Dónde están los boricuas en\nverdad? Ey allá, ey allá, ¿Dónde están los boricuas en verdad?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "Theme",
+          "tag": "nature"
+        }
+      ],
+      "uuid": "686cd03b-8aba-4b3a-901a-fd82c9a2cc40"
+    }
+  ],
+  "set": "Default",
+  "event_id": "a39929bb-33db-4625-a77f-4547e1fec853",
+  "source_id": "69fe9f4e-3436-447f-b327-3594574c22a0"
+}
