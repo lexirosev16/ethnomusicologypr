@@ -630,6 +630,481 @@
         }
       ],
       "uuid": "d1d36fa6-aec8-44e5-b306-646388fadead"
+    },
+    {
+      "start_time": 82,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Narrator: Ignoraban la existencia de Europa. No conocían al hombre blanco, de espesos bigotes, largas barbas y velludo pecho. Al verlos, se preguntaban quiénes eran estos seres extraños con costumbres diferentes. El idioma que hablaban era muy diferente al espanol que hablamos hoy. Aunque algunas palabras aún usamos en nuestras conversaciones diarias. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "baf5e2bd-cd93-4e2e-93f5-388299fc7a7a"
+    },
+    {
+      "start_time": 129,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los taínos aprovechan cualquier ocasión para celebrar algún acontecimiento. Por ejemplo, de esto eran los areitos. Durante los mismos, cantaban y bailaban. Para aquel entonces, había más de 70,000 taínos viviendo felizmente en nuestra isla. Sembraban su propia comida, tenían su propia lengua, símbolos y manera de vivir. Aunque tal vez los españoles confundían su benevolencia con simpleza, la raza taína era una civilización avanzada, con una estructura social libre en donde se cuidaban unos a los otros sin desplazamiento. Pero el afán de conquista español, movilizado por descubrir tierras y adquirir oro, los sometió al trabajo forzoso. Ante esta situación, se rebelan, ¡luchan! Defienden con su vida la tierra que los vio nacer. Esta tierra llamada: Borikén."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1ff33b77-640a-4109-b3eb-75efda329983"
+    },
+    {
+      "start_time": 240,
+      "end_time": 360,
+      "annotation": [
+        {
+          "text": "Inquietos. Audaces. Así eran aquellos hombres blancos colonizadores de nuestra isla. Ellos dicen haber descubierto a Puerto Rico en el 1493 ... La realidad es que ya Puerto Rico estaba habitado. Pero no es hasta 15 años más tarde cuando se inicia la colonización formal por España. En 1508, Un hidalgo español: Juan Ponce de León, vino a explorarla y enterarse de sus condiciones. Oyó noticias sobre el oro en Borikén. Vio oportunidad para enriquecerse, cubrirse de gloria añadiendo territorio al imperio Español, y cumpliendo con Dios al convertir almas al cristianismo ... razones que tuvo para interesarse en la colonización de la isla. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "vavés de nuestra hilstoria, el negro cargó con el peso del trabajo. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Desmontaba los campos, Haraba la tierra sembraba los valles costeros ..... con la semilla del azúcar. Conociendo este proceso arduo y hostil, de las haciendas azucaceras. Se nos hace mas fácil comprender la trascendencia de la religión, la vida cultural y las costumbres del negro puertorriqueño. Si no comprendemos este importante hecho jamás entenderemos otras contribuciones. Como su huella en la formación étnica y su integración cultural en nuestra sociedad. Por todo esto tenemos que acentuar, que azúcar y esclavitud negra fueron sinónimos ..... a través de nuestra historia. Hubo un cambio en la trayectoria de este tiempo. Se encontraba el negro concentrado en el cultivo del café, lo cual no fue muy satisfactorio. Entonces, la reina azúcar desplaza el rico grano y nuevamente las manos del negro son la responsables del desarrollo económico de Puerto Rico. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Scene 3: El Africano ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Años después, con la llegada del africano, se hizo realidad la explotación, no ya de minas, sino de tierra fertil. Una vez instalados en la isla se integraron aspectos de su cultura que incluía: música, idioma, y religión cual llegó con monjes europeos. Llenando la isla con su civilización española. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Interlude: Esclavitud ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Durante siglos, los habitantes de África vivieron en la isla en estado de inferioridad. Sometidos por sus amos, esclavizados en tareas denigrantes, pisoteados en su dignidad. No obstante, el negro participó en la vida fértil del puertorriqueño, y aportó hermosos elementos a la cultura del país. Aunque todo esto es correcto, olvidamos la más importante contribución del negro. El Trabajo! "
+        }
+      ],
+      "tags": [],
+      "uuid": "08cb462c-0b4a-4048-8542-ceb3ce0452c3"
+    },
+    {
+      "start_time": 420,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A través de nuestra hilstoria, el negro cargó con el peso del trabajo. Desmontaba los campos, Haraba la tierra sembraba los valles costeros con la semilla del azúcar. Conociendo este proceso arduo y hostil, de las haciendas azucaceras. Se nos hace mas fácil comprender la trascendencia de la religión, la vida cultural y las costumbres del negro puertorriqueño. Si no comprendemos este importante hecho jamás entenderemos otras contribuciones. Como su huella en la formación étnica y su integración cultural en nuestra sociedad. Por todo esto tenemos que acentuar, que azúcar y esclavitud negra fueron sinónimos. A través de nuestra historia hubo un cambio en la trayectoria de este tiempo. Se encontraba el negro concentrado en el cultivo del café, lo cual no fue muy satisfactorio. Entonces, la reina azúcar desplaza el rico grano y nuevamente las manos del negro son la responsables del desarrollo económico de Puerto Rico. La contribución del negro en la sociedad puertorriqueña ha sido muy significativa segunda mitad del siglo 19. En 1873, cuando el número de esclavos se habla reducido a una minoría las cortes de España proclamaron: Abolición de la esclavitud!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Theme",
+          "tag": "Blackness"
+        },
+        {
+          "category": "Theme",
+          "tag": "slavery"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "colonialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "oppression"
+        }
+      ],
+      "uuid": "db37d933-4d4d-453c-b0d5-0bcc2f1c00ea"
+    },
+    {
+      "start_time": 719,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Scene 5: La Fusión ",
+          "bold": true
+        },
+        {
+          "text": "\nLa tierra y el hombre se compenetran. Se configuran mutuamente. Las razas se fusionaron en nuestra isla. De esta amalgama racial nace el proceso de cruces. Mezcla de diversas razas que poblaron la isla. Debido precisamente a la fusión de estas razas Puerto Rico, fue fundando una sola...... EL PUERTORRIQUEÑO.   "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Uno de los progenitores de nuestro pueblo fue: el indio aborigen, el español conquistador, y el negro africano que trabaja en les para ganarse el pan de cada dia. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nNarrador: El relato anterior es un compendio de las escenas que van a vivir:  \nestampa del puertorriqueño que trabaja en los cañaverales para ganarse el pan de cada día.  \nreso, la historia se desarrolla en un cañaveral. Cosecha de la caña, fabricación de la azúcar. Esto es Zafra!"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Theme",
+          "tag": "slavery"
+        },
+        {
+          "category": "Theme",
+          "tag": "Blackness"
+        },
+        {
+          "category": "Theme",
+          "tag": "cultural heritage"
+        }
+      ],
+      "uuid": "7bd11b76-ad8a-418b-bf2c-82baddd0ca71"
+    },
+    {
+      "start_time": 845,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "text": "\"Colonia\" Don Rafael Cepeda Atiles",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro  ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Colonia, colonia, lleva la caña al ingenio."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Colonia, colonia, lleva la caña al ingenio."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos ",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "No dejes morir de hambre a los pobres obreros"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Te reciben sus salarios en la hacienda donde están muriendo."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Si la caña no tenemos, con que gana su sustento?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Te lo suplico, coloca, que prepara a los obreros"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Si el domingo lleva caña para el ingenio, pa' todos de los pobres sin remedio."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Si la caña no tenemos, con que gana su sustento?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Te lo suplico coloco que prepara su sustento."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\"Colonia\" Don Rafael Cepeda Atiles"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Colonia, colonia, lleva la caña al ingenio."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Colonia, colonia, lleva la caña al ingenio."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "No dejes morir de hambre a los pobres;"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Te reciben sus salarios en la hacienda donde están muriendo."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Si la caña no podemos, con que gana su sustento? "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Te lo suplico, coloca, que prepara a los obreros.\n"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "colonialism"
+        },
+        {
+          "category": "Theme",
+          "tag": "slavery"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Don Rafael Cepeda Atiles"
+        },
+        {
+          "category": "Genre",
+          "tag": "yubá"
+        }
+      ],
+      "uuid": "ed70c136-23c5-4b0e-8f20-bd5dffa7abea"
     }
   ],
   "set": "Zafra_P1_EN",
