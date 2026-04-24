@@ -114,10 +114,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "cimarrón"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "San Mateo de Cangrejos"
         },
         {
@@ -163,7 +159,7 @@
       ]
     },
     "created_at": "2026-04-24T13:18:54.499Z",
-    "updated_at": "2026-04-24T14:29:14.979Z",
+    "updated_at": "2026-04-24T14:29:18.960Z",
     "generate_pages_site": true
   },
   "annotations": {},
