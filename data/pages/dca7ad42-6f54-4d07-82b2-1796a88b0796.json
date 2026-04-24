@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Twenty Twenty Four Encuentro de Cantaoras",
   "slug": "twenty-twenty-four-encuentro-de-cantaoras",
-  "updated_at": "2026-04-24T13:25:04.161Z",
+  "updated_at": "2026-04-24T14:38:27.456Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "3c769d6e-4148-48ac-8249-c3a56b7b83cd"
-  }
+  },
+  "parent": "bb3e4251-b9d7-4ec0-b1c8-f45a901b7912"
 }
