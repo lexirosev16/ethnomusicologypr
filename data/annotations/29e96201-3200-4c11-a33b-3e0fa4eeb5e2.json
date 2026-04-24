@@ -116,6 +116,10 @@
         {
           "category": "Genre",
           "tag": "bomba"
+        },
+        {
+          "category": "Theme",
+          "tag": "nature"
         }
       ],
       "uuid": "58f999fc-ccd8-4235-a59b-79e96a17a1af"
