@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Twenty Twenty Four  Encuentro de Tambores",
   "slug": "twenty-twenty-four-encuentro-de-tambores",
-  "updated_at": "2026-04-24T13:25:03.772Z",
+  "updated_at": "2026-04-24T14:37:14.914Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "96d4f174-9940-4f43-8fa5-376f044ddd2d"
-  }
+  },
+  "parent": "bb3e4251-b9d7-4ec0-b1c8-f45a901b7912"
 }
