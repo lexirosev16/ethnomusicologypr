@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Fourteenth Encuentro de Tambores",
   "slug": "fourteenth-encuentro-de-tambores",
-  "updated_at": "2026-04-24T13:25:04.014Z",
+  "updated_at": "2026-04-24T14:37:41.082Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "b75b25df-354c-49b0-a957-724f9e1b8ad0"
-  }
+  },
+  "parent": "bb3e4251-b9d7-4ec0-b1c8-f45a901b7912"
 }
