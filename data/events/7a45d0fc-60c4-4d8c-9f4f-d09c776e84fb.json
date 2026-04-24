@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "4f117ebd-7313-45d7-8d6e-866e9d58d8ee": {
+      "label": "Ayeres de la bomba Part One",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/a8KLtrYKIR4?si=bJKVLGT9IdM5aL-_",
+      "duration": 3
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Ayeres de la bomba Part One",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Produced by Jerry Ferrao"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-04-24T13:25:03.095Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-04-24T13:25:03.096Z",
+  "updated_by": "lexirosev16"
+}

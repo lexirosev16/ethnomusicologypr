@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "d40ae76f-42d5-4e3d-80fc-7dbe0b360dd3": {
+      "label": "Twenty Twenty Five Encuentro de Cantaoras",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https //youtu.be/DdoWHTWy-DQ?si=QofcmCqYmpqJcE4F",
+      "duration": 3
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Twenty Twenty Five Encuentro de Cantaoras",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Los Encuentros de Cantaoras started in 2018 by Maribella Burgos explicitly centers female singers in bomba and provides them with a platform to showcase new compositions. Many of the songs performed at this festival, including those from the performance ensemble Ausuba (who currently has one recording on Spotify: \"Yo naci mujer\"), include feminist, intersectional, and racially conscious, or activist lyrics."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-04-24T13:25:03.095Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-04-24T13:25:03.096Z",
+  "updated_by": "lexirosev16"
+}

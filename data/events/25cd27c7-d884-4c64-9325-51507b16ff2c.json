@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "8a30afec-9d14-43b8-927d-6f7d3d15cc68": {
+      "label": "Encuentro de Tambores",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https //www.youtube.com/live/f355p8sBuYw?si=WajHURvDGxJvS35j",
+      "duration": 3
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Twenty Twenty Two Encuentro de Tambores",
+  "created_at": "2026-04-24T13:25:03.095Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-04-24T13:25:03.096Z",
+  "updated_by": "lexirosev16"
+}

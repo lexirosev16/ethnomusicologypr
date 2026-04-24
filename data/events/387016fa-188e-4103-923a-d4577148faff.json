@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "a71fc193-e734-42c2-b2e7-79265ce15ecf": {
+      "label": "Encuentro de Tambores",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https //youtu.be/rrwRJwRz6k0?si=pF--LhxrxHGQO1jG",
+      "duration": 3
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Two Thousand and Eighteen Encuentro de Tambores",
+  "created_at": "2026-04-24T13:25:03.095Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-04-24T13:25:03.096Z",
+  "updated_by": "lexirosev16"
+}

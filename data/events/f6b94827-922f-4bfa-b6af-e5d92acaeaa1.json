@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "f2cbbfe1-75ec-464f-b6d9-923727d7238c": {
+      "label": "Twenty Twenty Five Magia de los Tambores",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https //www.youtube.com/live/LvBxHqv_np4?si=m6MeYJvnhSPXIjXj",
+      "duration": 1
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Twenty Twenty Five Magia de los Tambores",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Magia de los tambores is an annual festival hosted by La Escuela de Bomba y Plena Tata Cepeda in conjunction with La Escuela de Bomba y Plena Dona Caridad Brenes of San Juan, Puerto Rico it occurred last year on May 17, 2025 in Kissimmee Florida. The featured singers include Margarita \"Tata\" Cepeda and Hector Garcia. The featured dancers are Gracima and Kalinda. "
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-04-24T13:25:03.095Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-04-24T13:25:03.096Z",
+  "updated_by": "lexirosev16"
+}

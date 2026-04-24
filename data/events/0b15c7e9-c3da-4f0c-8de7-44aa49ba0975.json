@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "23be1451-3c43-4265-9b42-99bf775238a1": {
+      "is_offline": false,
+      "file_type": "Audio",
+      "duration": 30
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "En Mi Patio PR",
+  "label": "Fourteenth Encuentro de Tambores",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "14ta edición del Encuentro de Tambores en la Plaza Antonio Barceló, San Juan, Puerto Rico\n\n"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-04-24T13:25:03.095Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-04-24T13:25:03.096Z",
+  "updated_by": "lexirosev16"
+}

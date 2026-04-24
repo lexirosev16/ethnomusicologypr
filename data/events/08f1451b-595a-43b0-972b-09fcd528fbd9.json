@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "fc17f5fe-e4fc-4e3f-9641-ec3c6eb35475": {
+      "label": "Zafra Fusion Cepeda Part Three",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https //youtu.be/c4nqwrXQ7go",
+      "duration": 4
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Zafra Fusion Cepeda Part Three",
+  "created_at": "2026-04-24T13:25:03.095Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-04-24T13:25:03.096Z",
+  "updated_by": "lexirosev16"
+}
