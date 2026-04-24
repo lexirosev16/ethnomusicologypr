@@ -241,7 +241,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"La Borucana\" (crayfish) - featured singer is Tata Cepeda"
+              "text": "\"La Borucana\" (crayfish) -",
+              "bold": true
+            },
+            {
+              "text": " featured singer is Tata Cepeda"
             }
           ]
         },
