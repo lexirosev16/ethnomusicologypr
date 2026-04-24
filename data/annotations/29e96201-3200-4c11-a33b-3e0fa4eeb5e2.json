@@ -1,1 +1,50 @@
-{"annotations":[],"set":"Default","event_id":"b75b25df-354c-49b0-a957-724f9e1b8ad0","source_id":"0f3cbd0f-c4bf-498f-be48-81a1d2e1d602"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Delegation of Cangrejos performed "
+            },
+            {
+              "bold": true,
+              "text": "“Cunya de la Peromia,” “Misereriere,” “Petronila Guilbe,” “Ay, mis Barriles,”"
+            },
+            {
+              "text": " and "
+            },
+            {
+              "bold": true,
+              "text": "“La Borucana”"
+            },
+            {
+              "text": " in the Plaza de los Obreros on March 29. The festival began at 1:00 p.m. and concluded at 5:00 p.m. Delegations arrived as early as 6:00 a.m. for registration. I was part of this year’s delegation, which was directed by Caridad Martínez, daughter of Tata Cepeda, and dedicated to Tite Curet Alonso, the renowned salsero honored this year."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "6e9e2f57-1422-4369-8de1-d6ad262f9051"
+    }
+  ],
+  "set": "Default",
+  "event_id": "b75b25df-354c-49b0-a957-724f9e1b8ad0",
+  "source_id": "0f3cbd0f-c4bf-498f-be48-81a1d2e1d602"
+}
