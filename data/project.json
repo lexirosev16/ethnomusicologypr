@@ -106,10 +106,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "plantations"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "slavery"
         },
         {
@@ -187,7 +183,7 @@
       ]
     },
     "created_at": "2026-04-24T13:18:54.499Z",
-    "updated_at": "2026-04-24T14:10:24.295Z",
+    "updated_at": "2026-04-24T14:10:28.812Z",
     "generate_pages_site": true
   },
   "annotations": {},
