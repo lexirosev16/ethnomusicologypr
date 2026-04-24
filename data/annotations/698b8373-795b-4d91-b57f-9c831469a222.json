@@ -221,16 +221,12 @@
           "tag": "bomba"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Cuando baila la negrita"
-        },
-        {
           "category": "Theme",
           "tag": "gender"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "reflexive"
+          "category": "Theme",
+          "tag": "race"
         }
       ],
       "uuid": "786da905-d3c8-46a9-b6b6-dfce29ad1e5e"
