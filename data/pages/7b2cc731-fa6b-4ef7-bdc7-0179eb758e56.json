@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Two Thousand and Eighteen Encuentro de Tambores",
   "slug": "two-thousand-and-eighteen-encuentro-de-tambor",
-  "updated_at": "2026-04-24T13:25:03.375Z",
+  "updated_at": "2026-04-24T14:37:24.649Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "387016fa-188e-4103-923a-d4577148faff"
-  }
+  },
+  "parent": "bb3e4251-b9d7-4ec0-b1c8-f45a901b7912"
 }
