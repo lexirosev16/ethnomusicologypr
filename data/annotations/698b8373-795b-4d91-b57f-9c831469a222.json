@@ -1654,12 +1654,8 @@
           "tag": "race"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "cultural pride"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Porque me dicen morena"
+          "category": "Theme",
+          "tag": "gender"
         }
       ],
       "uuid": "aa224fe2-a765-4c96-a02f-2b97523960c4"
