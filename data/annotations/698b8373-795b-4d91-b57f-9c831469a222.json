@@ -803,19 +803,11 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "cultural heritage"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "cultural memory"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "cultural pride"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Familia de Alduén"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "cultural heritage"
         }
       ],
       "uuid": "fd5af68e-875d-4ba4-b219-8060bf6ac450"
