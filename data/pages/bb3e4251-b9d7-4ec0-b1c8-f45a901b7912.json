@@ -21,7 +21,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "Figure 1. Barril with a sticker depicting the flag of the delegation of Cangrejos (crab) \n",
+          "italic": true
         }
       ]
     },
@@ -29,7 +30,18 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Overview "
+          "text": "Overview ",
+          "bold": true,
+          "textSize": "heading-one"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -37,7 +49,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This section offers a general overview of Los Encuentros de Tambores spanning from 2022-2026, and highlights specific moments in greater detail. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This section offers a general overview of Los Encuentros de Tambores spanning from 2022-2026 and highlights specific moments in greater detail. "
         }
       ]
     },
@@ -61,7 +81,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
@@ -69,7 +89,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The event is usually funded by the Institute of Puerto Rican Culture and documented by bomba photographers and videographers such as @enmipatiopr, FJM Video, and others. These influencers and bomba hobbyists upload segmented videos to YouTube and social media, function as commuity documentarians of the tradition. "
+          "text": "The event is usually funded by the Institute of Puerto Rican Culture and documented by bomba photographers and videographers such as @enmipatiopr, FJM Video, and others. These influencers and bomba hobbyists upload segmented videos to YouTube and social media, function as commuity documentarians of the tradition. \n"
         }
       ]
     },
@@ -77,7 +97,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "The festival’s location changes each year, and each new site is accompanied by a tribute to an elder bomba practitioner, symbolized through the gifting of a maraca. Last year, the event was dedicated to the late Afro–Puerto Rican elder Carlos “Tatá” Cirino. In 2026, Encuentro de Tambores was dedicated to salsero Tite Curet Alonso. \n"
         }
       ]
     },
@@ -85,31 +105,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The festival’s location changes each year, and each new site is accompanied by a tribute to an elder bomba practitioner, symbolized through the gifting of a maraca. Last year, the event was dedicated to the late Afro–Puerto Rican elder Carlos “Tatá” Cirino. In 2026, Encuentro de Tambores was dedicated to salsero Tite Curet Alonso. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "In 2026, the festival was held in Barrio de los obreros. Practitioners begin preparing intensively in February, meeting twice weekly for delegation rehearsals in addition to their regular bomba classes and activities. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
+          "text": "In 2026, the festival was held in Barrio de los obreros. Practitioners begin preparing intensively in February, meeting twice weekly for delegation rehearsals in addition to their regular bomba classes and activities. \n"
         }
       ]
     },
@@ -127,6 +123,13 @@
       "children": [
         {
           "text": "\n"
+        },
+        {
+          "text": "Figure 2. Barriles stacked outside the performance space for Encuentro de Tambores 2026 (pre-show). ",
+          "italic": true
+        },
+        {
+          "text": "\n"
         }
       ]
     },
@@ -135,7 +138,24 @@
       "children": [
         {
           "text": "Cantos de Bomba – In-depth  ",
-          "bold": true
+          "textSize": "heading-one"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -143,7 +163,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n“La Borucana” (performed in EDT 2026) is a humorous song centered on the practice of fishing for crayfish. Its responsorial chorus, “guemba, guemba,” should not be mistaken for the well‑known bomba rhythm term “guembe.” In this context, the expression refers specifically to the act of fishing and was accompanied by a choreographed gesture mimicking the casting of a fishing line, often preceded by a spoken introduction."
+          "text": "“La Borucana” (performed in EDT 2026) is a humorous song centered on the practice of fishing for crayfish. Its responsorial chorus, “guemba, guemba,” should not be mistaken for the well‑known bomba rhythm term “guembe.” In this context, the expression refers specifically to the act of fishing and was accompanied by a choreographed gesture mimicking the casting of a fishing line, often preceded by a spoken introduction."
         }
       ]
     },
@@ -151,7 +171,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "\n“Miserierie” (performed in EDT 2026) is set in a yubá rhythm, and its lyrics are sung in Haitian Creole. Although the song is widely known among bomba practitioners, many are unfamiliar with the Creole text itself. The refrain commonly sung is: “Misereir Congo mi se, donde está mi congo lare, donde está mi congo conguito, donde está mi congo lare.”"
         }
       ]
     },
@@ -159,7 +179,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "“Miserierie” (performed in EDT 2026) is set in a yubá rhythm, and its lyrics are sung in Haitian Creole. Although the song is widely known among bomba practitioners, many are unfamiliar with the Creole text itself. The refrain commonly sung is: “Misereir Congo mi se, donde está mi congo lare, donde está mi congo conguito, donde está mi congo lare.”"
+          "text": "\n\"Se me rompió el tambor” is a song built around the symbolic heartbreak of a bombero whose drum has broken. The lyrics follow his search across Puerto Rico for someone capable of repairing it, transforming that search into a tribute to the artisans who build and maintain bomba drums. By naming Wilfredo Morales, Kichi, Jesús Cepeda, Papo del Valle, Emmanuel Martínez, Víctor Vélez, Rafael Trinidad Maurás, and ultimately Alcadio Quiñones—the one who restores the drum—the song memorializes both contemporary and elder builders whose work sustains the tradition. Performed at the 2024 Encuentro de Tambores by the Delegation of the East, the piece expresses the bombero’s sorrow while celebrating the community of makers whose skill and care allow the drum, and the culture it carries, to resonate again. You can read more about these artsanos here: https://nuestrostambores.com/artesanos-y-musicos/ "
         }
       ]
     },
@@ -167,7 +187,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "\n“Mira, mira, mira tú ves,” An original song composed by Jennifer Raul, “Mira, mira, mira tú ves,” performed by the Delegación de Carolina at the 2024 Encuentro de Tambores, offers a compelling example of contemporary musical fusion and the reciprocal exchanges that shape Puerto Rican music-making today. In this performance, the Carolina delegation proudly centers its regional identity while demonstrating how bomba continues to change through intertextuality, mutual inspiration, and the ongoing exchange between popular and traditional musical worlds. "
         }
       ]
     },
@@ -175,39 +195,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"Se me rompió el tambor” is a song built around the symbolic heartbreak of a bombero whose drum has broken. The lyrics follow his search across Puerto Rico for someone capable of repairing it, transforming that search into a tribute to the artisans who build and maintain bomba drums. By naming Wilfredo Morales, Kichi, Jesús Cepeda, Papo del Valle, Emmanuel Martínez, Víctor Vélez, Rafael Trinidad Maurás, and ultimately Alcadio Quiñones—the one who restores the drum—the song memorializes both contemporary and elder builders whose work sustains the tradition. Performed at the 2024 Encuentro de Tambores by the Delegation of the East, the piece expresses the bombero’s sorrow while celebrating the community of makers whose skill and care allow the drum, and the culture it carries, to resonate again. You can read more about these artsanos here: https://nuestrostambores.com/artesanos-y-musicos/ "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "“Mira, mira, mira tú ves,” An original song composed by Jennifer Raul, “Mira, mira, mira tú ves,” performed by the Delegación de Carolina at the 2024 Encuentro de Tambores, offers a compelling example of contemporary musical fusion and the reciprocal exchanges that shape Puerto Rican music-making today. In this performance, the Carolina delegation proudly centers its regional identity while demonstrating how bomba continues to change through intertextuality, mutual inspiration, and the ongoing exchange between popular and traditional musical worlds. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The piece opens with an a cappella invocation of lyrics from Rauw Alejandro’s “De Carolina” before shifting into Raul’s original composition, “Mira, mira, mira tú ves.” This act of musical paraphrasing is significant: it highlights not only how Rauw Alejandro has drawn from bomba communities in songs like “Besito en la frente” and “Carita Linda,” and through his visible engagement with bomba spaces such as El Imán, but also how bomba practitioners, in turn, draw inspiration from his commercial urban sound. By interjecting música urbana and reggaetón into a traditional performance context (specifically the annual encuentros) the Delegación de Carolina expresses regional pride while engaging in a playful, intentional act of musical-cultural dialogue. "
+          "text": "\nThe piece opens with an a cappella invocation of lyrics from Rauw Alejandro’s “De Carolina” before shifting into Raul’s original composition, “Mira, mira, mira tú ves.” This act of musical paraphrasing is significant: it highlights not only how Rauw Alejandro has drawn from bomba communities in songs like “Besito en la frente” and “Carita Linda,” and through his visible engagement with bomba spaces such as El Imán, but also how bomba practitioners, in turn, draw inspiration from his commercial urban sound. By interjecting música urbana and reggaetón into a traditional performance context (specifically the annual encuentros) the Delegación de Carolina expresses regional pride while engaging in a playful, intentional act of musical-cultural dialogue. "
         }
       ]
     },
@@ -223,15 +211,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "A further layer of intertextuality deepens this exchange. “De Carolina” itself samples DJ Playero’s 1994 Playero 39 mixtape, the same recording that includes the now-iconic “la gente sabe” lyric. By invoking Rauw Alejandro—and, through him, Playero’s foundational reggaetón archive—the Delegación de Carolina activates a multigenerational chain of citation that links bomba, música urbana, and the early mixtape era. This final loop in the conversation underscores that contemporary Puerto Rican music is built through continual borrowing, homage, and reinvention, where each gesture carries the weight of past innovations while opening space for new creative futures. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n\n"
+          "text": "A further layer of intertextuality deepens this exchange. “De Carolina” itself samples DJ Playero’s 1994 Playero 39 mixtape, the same recording that includes the now-iconic “la gente sabe” lyric. By invoking Rauw Alejandro—and, through him, Playero’s foundational reggaetón archive—the Delegación de Carolina activates a multigenerational chain of citation that links bomba, música urbana, and the early mixtape era. This final loop in the conversation underscores that contemporary Puerto Rican music is built through continual borrowing, homage, and reinvention, where each gesture carries the weight of past innovations while opening space for new creative futures. \n"
         }
       ]
     }
@@ -244,6 +224,6 @@
   "slug": "encuentro-de-tambores",
   "created_at": "2026-04-24T13:19:41.041Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-04-24T13:19:41.041Z",
+  "updated_at": "2026-04-24T13:31:52.745Z",
   "updated_by": "lexirosev16"
 }
