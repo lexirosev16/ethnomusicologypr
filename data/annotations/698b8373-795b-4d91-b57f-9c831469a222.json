@@ -96,16 +96,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Somos semillas"
-        },
-        {
           "category": "Genre",
           "tag": "bomba"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "ecological"
+          "category": "Theme",
+          "tag": "nature"
         }
       ],
       "uuid": "43960414-8312-4f9c-b0d4-01070e6c2a52"
