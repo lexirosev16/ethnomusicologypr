@@ -42,6 +42,39 @@
         }
       ],
       "uuid": "6e9e2f57-1422-4369-8de1-d6ad262f9051"
+    },
+    {
+      "start_time": 1380,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cunya de la Peronia\" - Don Rafael Cepeda Atiles",
+              "bold": true
+            },
+            {
+              "text": ", and peformed by Yaya"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "58f999fc-ccd8-4235-a59b-79e96a17a1af"
     }
   ],
   "set": "Default",
